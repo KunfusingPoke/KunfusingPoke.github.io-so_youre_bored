@@ -45,15 +45,15 @@ function randomlink1(){
 }
 
 var randomlinks2 = [];
-randomlinks2[0]="https://gypopothomas.itch.io/bioevil4";
-randomlinks2[1]="https://maxhgrobins.itch.io/mondays";
-randomlinks2[2]="https://wenderlygames.itch.io/assessment-examination";
+randomlinks2[0]="https://squadd.io/";
+randomlinks2[1]="http://ev.io/";
+randomlinks2[2]="https://thejaspel.itch.io/oops-no-brakes";
 randomlinks2[3]="https://jstris.jezevec10.com";
-randomlinks2[4]="https://krisjet.itch.io/snek";
-randomlinks2[5]="https://johnsterspacegames.itch.io/baldis-fun-new-school-remastered";
-randomlinks2[6]="https://chloethemonke.itch.io/chance-encounter";
-randomlinks2[7]="https://feraswheel.itch.io/pipsup";
-randomlinks2[8]="https://skribbl.io";
+randomlinks2[4]="http://brutal.io/";
+randomlinks2[5]="https://gamehugger.itch.io/41-days-minimalist-pandemic-simulator";
+randomlinks2[6]="https://graebor.itch.io/sort-the-court";
+randomlinks2[7]="https://bruh.io/";
+randomlinks2[8]="https://ninja-muffin24.itch.io/funkin";
 randomlinks2[9]="https://agar.io";
 randomlinks2[10]="https://emupedia.net/beta/emuos/";
 
