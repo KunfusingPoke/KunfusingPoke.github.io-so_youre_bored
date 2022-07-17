@@ -10,6 +10,12 @@ randomlinks[7]="http://just-shower-thoughts.tumblr.com/";
 randomlinks[8]="http://www.fallingfalling.com/";
 randomlinks[9]="http://www.staggeringbeauty.com/";
 randomlinks[10]="https://www.mnpuzzleleague.com";
+randomlinks[11]="";
+randomlinks[12]="";
+randomlinks[13]="";
+randomlinks[14]="";
+randomlinks[15]="";
+randomlinks[16]="";
 
 function randomlink(){
   window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
