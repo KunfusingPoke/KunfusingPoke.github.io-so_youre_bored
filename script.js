@@ -12,10 +12,10 @@ randomlinks[9]="http://www.staggeringbeauty.com/";
 randomlinks[10]="https://www.mnpuzzleleague.com";
 randomlinks[11]="https://kunfusingpoke.github.io/so_youre_bored/dist/llama.html";
 randomlinks[12]="https://kunfusingpoke.github.io/so_youre_bored/leimapapa/ratchet.html";
-randomlinks[13]="";
-randomlinks[14]="";
-randomlinks[15]="";
-randomlinks[16]="";
+randomlinks[13]="http://grandpanoclothes.com";
+randomlinks[14]="http://www.icbe.org";
+randomlinks[15]="https://www.cowsgomoo.co.uk";
+randomlinks[16]="https://www.omfgdogs.com/#";
 
 function randomlink(){
   window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
