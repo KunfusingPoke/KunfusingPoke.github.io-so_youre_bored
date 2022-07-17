@@ -2,7 +2,7 @@ body {
   background-color: #151515; 
   color: #eee;
   height: 420px;
-  width: auto;
+  max-width: 420px;
   padding: 0;
 }
 #container {
