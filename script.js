@@ -33,6 +33,12 @@ randomlinks1[7]="https://www.reddit.com/r/PornhubComments/";
 randomlinks1[8]="https://www.reddit.com/r/Thisismylifemeow/";
 randomlinks1[9]="https://www.reddit.com/r/NotTimAndEric/";
 randomlinks1[10]="https://www.reddit.com/r/Coffee/";
+randomlinks1[11]="https://www.reddit.com/r/interestingasfuck/";
+randomlinks1[12]="https://www.reddit.com/r/Review/";
+randomlinks1[13]="https://www.reddit.com/r/AmItheAsshole/";
+randomlinks1[14]="https://www.reddit.com/r/Wellthatsucks/";
+randomlinks1[15]="https://www.reddit.com/r/Area51memes/";
+randomlinks1[16]="https://www.reddit.com/r/technicallythetruth/";
 
 function randomlink1(){
   window.open(randomlinks1[Math.floor(Math.random()*randomlinks.length)]);
