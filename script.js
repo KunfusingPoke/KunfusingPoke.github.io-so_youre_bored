@@ -71,3 +71,10 @@ randomlinks2[21]="https://aislebsoupid.itch.io/bonnies-bakery";
 function randomlink2(){
   window.open(randomlinks2[Math.floor(Math.random()*randomlinks2.length)]);
 }
+
+var randomlinks3 = [];
+randomlinks3[0]="https://charleyproject.org";
+function randomlink3(){
+  window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
+}
+
