@@ -96,6 +96,7 @@ randomlinks3[19]="https://www.eckankar.org/experience/hu-the-sound-of-soul/";
 randomlinks3[20]="https://lostmediawiki.com/Rorochan_1999_(found_suicide_livestream_of_Japanese_streamer;_2013)";
 randomlinks3[21]="https://bignuts.tf";
 randomlinks3[22]="https://sm64-conspiracies.fandom.com/wiki/Iceberg#:~:text=The%20Super%20Mario%2064%20iceberg,anomalies%2C%20easter%20eggs%20and%20past.";
+randomlinks3[23]="https://www.youtube.com/watch?v=mEIqCg_MOTA";
 
 function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
