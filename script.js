@@ -56,6 +56,17 @@ randomlinks2[7]="https://bruh.io/";
 randomlinks2[8]="https://ninja-muffin24.itch.io/funkin";
 randomlinks2[9]="https://agar.io";
 randomlinks2[10]="https://emupedia.net/beta/emuos/";
+randomlinks2[11]="https://miniroyale.io/";
+randomlinks2[12]="https://www.newgrounds.com/portal/view/836113";
+randomlinks2[13]="https://triset.io";
+randomlinks2[14]="https://badpiggy.itch.io/red-handed";
+randomlinks2[15]="https://twitchtweets.com/";
+randomlinks2[16]="https://kirka.io/hub/news";
+randomlinks2[17]="https://krunker.io/";
+randomlinks2[18]="https://ncase.itch.io/wbwwb";
+randomlinks2[19]="https://bearmask.itch.io/lofi-room";
+randomlinks2[20]="https://npckc.itch.io/space-frog";
+randomlinks2[21]="https://aislebsoupid.itch.io/bonnies-bakery";
 
 function randomlink2(){
   window.open(randomlinks2[Math.floor(Math.random()*randomlinks.length)]);
