@@ -27,11 +27,25 @@
         <p ><input class="btn blue" type="button" name="B1" value="Strange Websites >>" onclick="randomlink()""window.open'"></p> 
 </form>
                
-  <form method="post">
-    <p><input class="btn red" type="button" name="B1" value="Games >>" onclick="randomlink2()""window.open'"></p> 
+      <form method="post">
+    <p><input class="btn green" type="button" name="B1" value="Web Games >>" onclick="randomlink2()""window.open'"></p> 
+</form>
+      <form method="post">
+    <a><input class="btn red" type="button" name="B1" value="Rabbit Hole >>" ONCLICK="confirmFunction()"></a> 
 </form>
     
- 
+ <SCRIPT>
+function confirmFunction() {
+    if (confirm("Are you sure you want to go down this scary path?") == true) {
+{
+  window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
+}
+    } else {
+       
+      
+    }
+}
+ </SCRIPT>
   <body>
     </html>
 <!-- partial -->
