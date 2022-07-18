@@ -41,7 +41,7 @@ randomlinks1[15]="https://www.reddit.com/r/Area51memes/";
 randomlinks1[16]="https://www.reddit.com/r/technicallythetruth/";
 
 function randomlink1(){
-  window.open(randomlinks1[Math.floor(Math.random()*randomlinks.length)]);
+  window.open(randomlinks1[Math.floor(Math.random()*randomlinks1.length)]);
 }
 
 var randomlinks2 = [];
@@ -69,5 +69,5 @@ randomlinks2[20]="https://npckc.itch.io/space-frog";
 randomlinks2[21]="https://aislebsoupid.itch.io/bonnies-bakery";
 
 function randomlink2(){
-  window.open(randomlinks2[Math.floor(Math.random()*randomlinks.length)]);
+  window.open(randomlinks2[Math.floor(Math.random()*randomlinks2.length)]);
 }
