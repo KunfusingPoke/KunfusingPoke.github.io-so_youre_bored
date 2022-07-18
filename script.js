@@ -74,6 +74,29 @@ function randomlink2(){
 
 var randomlinks3 = [];
 randomlinks3[0]="https://charleyproject.org";
+randomlinks3[1]="https://www.reddit.com/r/FanTheories/comments/l5ohbq/spongebob_squarepants_skin_theory/";
+randomlinks3[2]="thispersondoesnotexists.com";
+randomlinks3[3]="https://www.reddit.com/r/Lost_Films/comments/8tfj1p/him_1974_gay_porno_about_jesus/";
+randomlinks3[4]="https://www.reddit.com/r/imsorryjon/comments/d31ul5/im_really_sorry_jon/";
+randomlinks3[5]="https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370";
+randomlinks3[6]="https://www.meer.com/en/61203-red-rooms-deep-web";
+randomlinks3[7]="https://www.youtube.com/watch?v=DTHgEV-xUSg&ab_channel=Izzzyzzz";
+randomlinks3[8]="http://web.archive.org/web/20021002100842/www.necrobabes.org/perroloco/forum/ccforum.html";
+randomlinks3[9]="https://www.heavensgate.com";
+randomlinks3[10]="https://en.wikipedia.org/wiki/Grigori_Rasputin";
+randomlinks3[11]="https://www.youtube.com/watch?v=bsCN0Yx2Vbs";
+randomlinks3[12]="https://www.youtube.com/watch?v=rkMnmNeCszs";
+randomlinks3[13]="https://cavehaven.com/nutty-putty-cave-accident/";
+randomlinks3[14]="https://www.youtube.com/watch?v=aQkPcPqTq4M";
+randomlinks3[15]="https://kiwifarms.net";
+randomlinks3[16]="https://www.reddit.com/user/redsmilegroup";
+randomlinks3[17]="https://www.theatlantic.com/technology/archive/2014/10/the-first-characters-sent-through-the-internet-were-l-o-l/382074/";
+randomlinks3[18]="https://www.reddit.com/r/LiminalSpace/";
+randomlinks3[19]="https://www.eckankar.org/experience/hu-the-sound-of-soul/";
+randomlinks3[20]="https://lostmediawiki.com/Rorochan_1999_(found_suicide_livestream_of_Japanese_streamer;_2013)";
+randomlinks3[21]="https://bignuts.tf";
+randomlinks3[22]="https://sm64-conspiracies.fandom.com/wiki/Iceberg#:~:text=The%20Super%20Mario%2064%20iceberg,anomalies%2C%20easter%20eggs%20and%20past.";
+
 function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
 }
