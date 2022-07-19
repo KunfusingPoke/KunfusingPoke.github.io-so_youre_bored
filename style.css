@@ -42,11 +42,11 @@ h1 {
   box-shadow: 0px 1px 0px 0px;
 }
 
-.blue {
+.grey {
   background-color: #e7e7e7; color: black;
 }
 
-.blue:hover {
+.grey:hover {
   background-color: #6FC6FF;
 }
 .red {
