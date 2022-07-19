@@ -1,5 +1,5 @@
 var randomlinks = [];
-randomlinks[0]="http://ducksarethebest.com/";
+randomlinks[0]="https://theuselessweb.site/ducksarethebest.com/";
 randomlinks[1]="http://cant-not-tweet-this.com/";
 randomlinks[2]="https://yyyyyyy.info";
 randomlinks[3]="https://mondrianandme.com";
@@ -16,6 +16,23 @@ randomlinks[13]="http://grandpanoclothes.com";
 randomlinks[14]="http://www.icbe.org";
 randomlinks[15]="https://www.cowsgomoo.co.uk";
 randomlinks[16]="https://www.omfgdogs.com/#";
+randomlinks[17]="https://z0r.de/2161";
+randomlinks[18]="https://www.theonion.com";
+randomlinks[19]="http://111111111111111111111111111111111111111111111111111111111111.com";
+randomlinks[20]="https://zombo.com";
+randomlinks[21]="https://pointerpointer.com";
+randomlinks[22]="http://eelslap.com";
+randomlinks[23]="https://filterfakers.com";
+randomlinks[24]="https://thatsthefinger.com";
+randomlinks[25]="https://www.ebay.com/itm/Evelots-Prism-Bed-Glasses-Read-Watch-TV-Lying-Down-Use-Over-Your-Glasses-Unisex/333906248847?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5338181172&customid=&toolid=10001&mkevt=1";
+randomlinks[26]="https://hemansings.com";
+randomlinks[27]="http://godhatesshrimp.com";
+randomlinks[28]="http://www.vintagecomputing.com/index.php/archives/820";
+randomlinks[29]="http://www.niquette.com/paul/paulhome.html";
+randomlinks[30]="http://www.hummer.is";
+randomlinks[31]="http://www.blaue-perle.de";
+randomlinks[32]="http://www.grindorgans.com";
+randomlinks[33]="https://www.my90stv.com/#9L-dMUv5I7g";
 
 function randomlink(){
   window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
@@ -39,6 +56,15 @@ randomlinks1[13]="https://www.reddit.com/r/AmItheAsshole/";
 randomlinks1[14]="https://www.reddit.com/r/Wellthatsucks/";
 randomlinks1[15]="https://www.reddit.com/r/Area51memes/";
 randomlinks1[16]="https://www.reddit.com/r/technicallythetruth/";
+randomlinks1[17]="https://www.reddit.com/r/Dinkum/?utm_campaign=redirect&utm_medium=desktop&utm_source=reddit&utm_name=random_subreddit";
+randomlinks1[18]="https://www.reddit.com/r/discworld/";
+randomlinks1[19]="https://www.reddit.com/r/quityourbullshit/";
+randomlinks1[20]="https://www.reddit.com/r/byebyejob/";
+randomlinks1[21]="https://www.reddit.com/r/Justrolledintotheshop/";
+randomlinks1[22]="https://www.reddit.com/r/canada/";
+randomlinks1[23]="https://www.reddit.com/r/OneSecondBeforeDisast/";
+randomlinks1[24]="https://www.reddit.com/r/polevaulting/";
+
 
 function randomlink1(){
   window.open(randomlinks1[Math.floor(Math.random()*randomlinks1.length)]);
@@ -98,6 +124,20 @@ randomlinks3[21]="https://bignuts.tf";
 randomlinks3[22]="https://sm64-conspiracies.fandom.com/wiki/Iceberg#:~:text=The%20Super%20Mario%2064%20iceberg,anomalies%2C%20easter%20eggs%20and%20past.";
 randomlinks3[23]="https://www.youtube.com/watch?v=mEIqCg_MOTA";
 randomlinks3[24]="https://docs.google.com/document/d/1ZV1U0S8qC6yJEi6grFO_Vq5A15lRVCLYeq_udWsC-9Y/edit";
+randomlinks3[25]="https://www.youtube.com/watch?v=0xzN6FM5x_E";
+randomlinks3[26]="https://www.youtube.com/watch?v=YYpI8847naw";
+randomlinks3[27]="https://www.snopes.com/fact-check/the-lost-day/";
+randomlinks3[28]="https://www.reddit.com/r/HorrorGaming/comments/ljdes7/the_scary_nature_of_ps1_style_graphics/";
+randomlinks3[29]="https://www.youtube.com/watch?v=kBp56o4VDK8";
+randomlinks3[30]="https://www.youtube.com/watch?v=0HbCKgLrtUQ";
+randomlinks3[31]="https://www.youtube.com/watch?v=t_dbpxn2IK8";
+randomlinks3[32]="https://en.wikipedia.org/wiki/Jigsaw_(British_TV_series)";
+randomlinks3[33]="https://www.youtube.com/watch?v=qn4tYkSu3ps";
+randomlinks3[34]="https://web.archive.org/web/20071015111844/http://xccr.com/";
+randomlinks3[35]="http://www.fdle.state.fl.us/MSDHS/Meetings/November-Meeting-Documents/Nov-14-1045-am-Cruz-Cell-Phone-and-Internet-John-S.aspx";
+randomlinks3[36]="https://icebergcharts.com";
+randomlinks3[37]="https://en.wikipedia.org/wiki/Emu_War";
+randomlinks3[38]="https://www.youtube.com/results?search_query=....+ø·ø+̈ùšù„ø©+...+ø£øoù†ùšø©+ù„ù„ø£ø·ù+ø§ù„+...+ù„ùšø+̈ùšø§+шрек";
 
 function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
