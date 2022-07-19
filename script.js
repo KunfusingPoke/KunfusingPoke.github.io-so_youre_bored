@@ -1,6 +1,6 @@
 var randomlinks = [];
 randomlinks[0]="https://theuselessweb.site/ducksarethebest.com/";
-randomlinks[1]="http://cant-not-tweet-this.com/";
+randomlinks[1]="https://docs.google.com/document/d/1ZV1U0S8qC6yJEi6grFO_Vq5A15lRVCLYeq_udWsC-9Y/edit";
 randomlinks[2]="https://yyyyyyy.info";
 randomlinks[3]="https://mondrianandme.com";
 randomlinks[4]="http://www.partridgegetslucky.com/";
@@ -124,7 +124,7 @@ randomlinks3[20]="https://lostmediawiki.com/Rorochan_1999_(found_suicide_livestr
 randomlinks3[21]="https://bignuts.tf";
 randomlinks3[22]="https://sm64-conspiracies.fandom.com/wiki/Iceberg#:~:text=The%20Super%20Mario%2064%20iceberg,anomalies%2C%20easter%20eggs%20and%20past.";
 randomlinks3[23]="https://www.youtube.com/watch?v=mEIqCg_MOTA";
-randomlinks3[24]="https://docs.google.com/document/d/1ZV1U0S8qC6yJEi6grFO_Vq5A15lRVCLYeq_udWsC-9Y/edit";
+randomlinks3[24]="https://lostmediawiki.com/Home";
 randomlinks3[25]="https://www.youtube.com/watch?v=0xzN6FM5x_E";
 randomlinks3[26]="https://www.youtube.com/watch?v=YYpI8847naw";
 randomlinks3[27]="https://www.snopes.com/fact-check/the-lost-day/";
