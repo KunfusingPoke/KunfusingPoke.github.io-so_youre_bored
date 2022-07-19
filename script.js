@@ -139,6 +139,7 @@ randomlinks3[35]="http://www.fdle.state.fl.us/MSDHS/Meetings/November-Meeting-Do
 randomlinks3[36]="https://icebergcharts.com";
 randomlinks3[37]="https://en.wikipedia.org/wiki/Emu_War";
 randomlinks3[38]="https://www.youtube.com/results?search_query=....+ø·ø+̈ùšù„ø©+...+ø£øoù†ùšø©+ù„ù„ø£ø·ù+ø§ù„+...+ù„ùšø+̈ùšø§+шрек";
+randomlinks3[39]="https://www.youtube.com/watch?v=7iFXyLah2oQ";
 
 function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
