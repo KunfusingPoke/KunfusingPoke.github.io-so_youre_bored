@@ -93,6 +93,7 @@ randomlinks2[18]="https://ncase.itch.io/wbwwb";
 randomlinks2[19]="https://bearmask.itch.io/lofi-room";
 randomlinks2[20]="https://npckc.itch.io/space-frog";
 randomlinks2[21]="https://aislebsoupid.itch.io/bonnies-bakery";
+randomlinks2[22]="https://gigapully.itch.io/ignite-bike";
 
 function randomlink2(){
   window.open(randomlinks2[Math.floor(Math.random()*randomlinks2.length)]);
