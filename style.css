@@ -1,10 +1,10 @@
 body {
-  background-color: #151515; 
-  color: #eee;
+  background: linear-gradient(#FED7B0, #FFFFEE);
+  color: #000;
   height: 100%;
   width: auto;
   padding: 0;
-  text-align: center;
+    text-align: center;
 }
 h2 {
   color: #ff0000;
@@ -12,7 +12,7 @@ h2 {
 }
 
 h1 {
-  color: white;
+  color: #000;
   text-align: center;
 }
 
@@ -43,8 +43,7 @@ h1 {
 }
 
 .blue {
-  background-color: #55acee;
-  box-shadow: 0px 5px 0px 0px #3C93D5;
+  background-color: #e7e7e7; color: black;
 }
 
 .blue:hover {
@@ -52,28 +51,28 @@ h1 {
 }
 .red {
   background-color: #e74c3c;
-  box-shadow: 0px 5px 0px 0px #CE3323;
 }
 
 .red:hover {
   background-color: #FF6656;
 }
 .orange {
-  background-color: #e67e22;
-  box-shadow: 0px 5px 0px 0px #CD6509;
-}
 
-.orange:hover {
-  background-color: #FF983C;
 }
 #me{
 
 }
-.green {
-  background-color: #2ecc71;
-  box-shadow: 0px 5px 0px 0px #15B358;
+
+#catagories{
+  border-style: solid;
+  border-width: 0px 2px 2px 2px;
+  border-color:#FF0D00;
+}
+#catagories h3{
+  background-color:#DEB17E;
+  height:50px;
+  border-style: solid;
+  border-width: 2px 0px 0px 0px;
+  border-color:#FF0D00;
 }
 
-.green:hover {
-  background-color: #48E68B;
-}
