@@ -75,4 +75,29 @@ h1 {
   border-width: 2px 0px 0px 0px;
   border-color:#FF0D00;
 }
+.alert {
+  padding: 20px;
+  background-color:#FFFFEE; /* Red */
+  color: black;
+  margin-bottom: 15px;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color:#FF0D00;
+}
 
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: black;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: red;
+}
