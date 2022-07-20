@@ -145,3 +145,14 @@ function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
 }
 
+var randomlinks4 = [
+"https://amzn.to/3ROnGXh",
+"https://amzn.to/3PqukS3",
+"https://amzn.to/3yXF3ML",
+"https://amzn.to/3zlMYET",
+"https://amzn.to/3RNw3T0",
+];  
+function randomlink4(){
+  window.open(randomlinks4[Math.floor(Math.random()*randomlinks4.length)]);
+}
+
