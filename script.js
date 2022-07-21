@@ -166,6 +166,7 @@ var randomlinks4 = [
 "https://amzn.to/3ROLtX6",
 "https://amzn.to/3RMS6sR",
 "https://amzn.to/3B6uk5h",
+"https://amzn.to/3PCQTlW",
 ];  
 function randomlink4(){
   window.open(randomlinks4[Math.floor(Math.random()*randomlinks4.length)]);
