@@ -141,6 +141,7 @@ var randomlinks3 = [
 "https://www.youtube.com/watch?v=7iFXyLah2oQ",
 "https://www.youtube.com/watch?v=YEj102gNnLE&t=618s",
 "https://www.youtube.com/watch?v=9qklT3hYcr4&t=2453s",
+"https://www.youtube.com/watch?v=q0EpOiu8YkI&t=47s",
 ];
 function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
