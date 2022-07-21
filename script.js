@@ -140,6 +140,7 @@ var randomlinks3 = [
 "https://www.youtube.com/results?search_query=....+ø·ø+̈ùšù„ø©+...+ø£øoù†ùšø©+ù„ù„ø£ø·ù+ø§ù„+...+ù„ùšø+̈ùšø§+шрек",
 "https://www.youtube.com/watch?v=7iFXyLah2oQ",
 "https://www.youtube.com/watch?v=YEj102gNnLE&t=618s",
+"https://www.youtube.com/watch?v=9qklT3hYcr4&t=2453s",
 ];
 function randomlink3(){
   window.open(randomlinks3[Math.floor(Math.random()*randomlinks3.length)]);
