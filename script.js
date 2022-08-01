@@ -158,13 +158,17 @@ var randomlinks4 = [
 "https://amzn.to/3PNR0vv",
 "https://amzn.to/3aXZYr6",
 "https://amzn.to/3RTFrEO",
-"https://amzn.to/3Omu4Ci",
-"https://amzn.to/3zmfg2f",
-"https://amzn.to/3BmDCuf",
-"https://amzn.to/3PyZciS",
+"https://amzn.to/3OQ1GZt",
+"https://amzn.to/3PRpixZ",
+"https://amzn.to/3PPCt2y",
+"https://amzn.to/3QaMY0g",
 "https://amzn.to/3yTa9Ff",
 "https://amzn.to/3v3m822",
 "https://amzn.to/3RPWtmV",
+"https://amzn.to/3zGCuiD",
+"https://amzn.to/3zkSZAw",
+"https://amzn.to/3BBk2KR",
+"https://amzn.to/3PUvBAX",
 ];  
 function randomlink4(){
   window.open(randomlinks4[Math.floor(Math.random()*randomlinks4.length)]);
