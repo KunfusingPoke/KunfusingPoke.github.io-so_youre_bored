@@ -71,29 +71,28 @@ function randomlink1(){
 }
 
 var randomlinks2 = [];
-randomlinks2[0]="https://squadd.io/";
-randomlinks2[1]="http://ev.io/";
-randomlinks2[2]="https://thejaspel.itch.io/oops-no-brakes";
-randomlinks2[3]="https://jstris.jezevec10.com";
-randomlinks2[4]="http://brutal.io/";
-randomlinks2[5]="https://gamehugger.itch.io/41-days-minimalist-pandemic-simulator";
-randomlinks2[6]="https://graebor.itch.io/sort-the-court";
-randomlinks2[7]="https://bruh.io/";
-randomlinks2[8]="https://ninja-muffin24.itch.io/funkin";
-randomlinks2[9]="https://agar.io";
-randomlinks2[10]="https://emupedia.net/beta/emuos/";
-randomlinks2[11]="https://miniroyale.io/";
-randomlinks2[12]="https://www.newgrounds.com/portal/view/836113";
-randomlinks2[13]="https://triset.io";
-randomlinks2[14]="https://badpiggy.itch.io/red-handed";
-randomlinks2[15]="https://twitchtweets.com/";
-randomlinks2[16]="https://kirka.io/hub/news";
-randomlinks2[17]="https://krunker.io/";
-randomlinks2[18]="https://ncase.itch.io/wbwwb";
-randomlinks2[19]="https://bearmask.itch.io/lofi-room";
-randomlinks2[20]="https://npckc.itch.io/space-frog";
-randomlinks2[21]="https://aislebsoupid.itch.io/bonnies-bakery";
-randomlinks2[22]="https://gigapully.itch.io/ignite-bike";
+"https://squadd.io/", "http://ev.io/", 
+"https://thejaspel.itch.io/oops-no-brakes",
+"https://jstris.jezevec10.com",
+"http://brutal.io/",
+"https://gamehugger.itch.io/41-days-minimalist-pandemic-simulator",
+"https://graebor.itch.io/sort-the-court",
+"https://bruh.io/",
+"https://ninja-muffin24.itch.io/funkin",
+"https://agar.io",
+"https://emupedia.net/beta/emuos/",
+"https://miniroyale.io/",
+"https://www.newgrounds.com/portal/view/836113",
+"https://triset.io",
+"https://badpiggy.itch.io/red-handed",
+"https://twitchtweets.com/",
+"https://kirka.io/hub/news",
+"https://krunker.io/",
+"https://ncase.itch.io/wbwwb",
+"https://bearmask.itch.io/lofi-room",
+"https://npckc.itch.io/space-frog",
+"https://aislebsoupid.itch.io/bonnies-bakery",
+"https://gigapully.itch.io/ignite-bike",
 
 function randomlink2(){
   window.open(randomlinks2[Math.floor(Math.random()*randomlinks2.length)]);
