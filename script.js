@@ -64,6 +64,15 @@ var randomlinks1 = [
 "https://www.reddit.com/r/OneSecondBeforeDisast/",
 "https://www.reddit.com/r/polevaulting/",
 "https://www.reddit.com/r/wallstreetbets/",
+"https://www.reddit.com/t/katana_zero/".,
+"https://www.reddit.com/t/vampire_movie/",
+"https://www.reddit.com/t/xmen_origins_wolverine/",
+"https://www.reddit.com/t/here_comes_your_man/",
+"https://www.reddit.com/t/history_podcast/",
+"https://www.reddit.com/t/scarra/",
+"https://www.reddit.com/t/scp173/",
+"https://www.reddit.com/t/scp173/",
+"https://www.reddit.com/t/quest_1/",
 ];
   
 function randomlink1(){
