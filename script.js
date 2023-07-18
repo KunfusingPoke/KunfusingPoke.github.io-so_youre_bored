@@ -79,7 +79,7 @@ function randomlink1(){
   window.open(randomlinks1[Math.floor(Math.random()*randomlinks1.length)]);
 }
 
-var randomlinks2 = [];
+var randomlinks2 = [
 "https://squadd.io/", "http://ev.io/", 
 "https://thejaspel.itch.io/oops-no-brakes",
 "https://jstris.jezevec10.com",
@@ -102,7 +102,7 @@ var randomlinks2 = [];
 "https://npckc.itch.io/space-frog",
 "https://aislebsoupid.itch.io/bonnies-bakery",
 "https://gigapully.itch.io/ignite-bike",
-
+  ];
 function randomlink2(){
   window.open(randomlinks2[Math.floor(Math.random()*randomlinks2.length)]);
 }
