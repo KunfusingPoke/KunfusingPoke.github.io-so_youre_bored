@@ -1,5 +1,4 @@
-<script>
-  var randomlinks = [
+var randomlinks = [
 'https://theuselessweb.site/ducksarethebest.com/',
 'https://docs.google.com/document/d/1ZV1U0S8qC6yJEi6grFO_Vq5A15lRVCLYeq_udWsC-9Y/edit',
 'https://yyyyyyy.info',
@@ -185,4 +184,3 @@ var randomlinks4 = [
 function randomlink4(){
   window.open(randomlinks4[Math.floor(Math.random()*randomlinks4.length)]);
 }
-</script>
