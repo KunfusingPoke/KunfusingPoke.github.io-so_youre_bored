@@ -185,4 +185,4 @@ var randomlinks4 = [
 function randomlink4(){
   window.open(randomlinks4[Math.floor(Math.random()*randomlinks4.length)]);
 }
-<script/>
+</script>
